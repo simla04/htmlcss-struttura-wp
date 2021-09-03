@@ -9,3 +9,12 @@
     display: table;
     clear: both;
 }
+
+body{
+    background-color: blue;
+}
+
+.header{
+    background-color: rgba(229, 121, 230, 1);
+    height: 100px;
+}
