@@ -12,7 +12,7 @@
 
 
 body{
-    margin: 2rem;
+    margin: 1rem 4rem;
 }
 
 /* /MAIN */
@@ -34,7 +34,7 @@ margin-top: 20px;
 
 .rettangolo2{
     background-color:rgba(171, 207, 231, 1) ;
-    height: 90px;
+    height:55px;
     margin-top: 20px;
 }
 
@@ -46,18 +46,28 @@ margin-top: 20px;
 
 .colonna1{
     background-color: rgba(171, 207, 231, 1) ;
-    width: 30px;
+    width: 138px;
     float: left;
+    height: 272px;
+    margin-top: 15px;
+margin-bottom: 10px;
+margin-right: 13px;
 }
 .colonna2{
     background-color: rgba(171, 207, 231, 1);
-width: 30px;
+width: 480px;
+height: 272px;
 float: left;
+margin-top: 15px;
 }
 .colonna3{
     background-color: rgba(171, 207, 231, 1);
-width: 30px;
+width: 138px;
+height: 272px;
 float: left;
+margin-top: 15px;
+margin-bottom: 10px;
+margin-left: 14px;
 }
 
 .sidebar{
@@ -68,6 +78,6 @@ float: left;
 
 .copyright{
     background-color: rgba(136, 1, 254, 1);
-    height: 70px;
+    height: 40px;
     margin-top: 10px;
 }
